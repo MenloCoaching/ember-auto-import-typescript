@@ -28,7 +28,7 @@
     "eslint": "^7.32.0"
   },
   "peerDependencies": {
-    "ember-auto-import": "^1.6.0"
+    "ember-auto-import": "^2.0.0"
   },
   "ember-addon": {
     "before": [
