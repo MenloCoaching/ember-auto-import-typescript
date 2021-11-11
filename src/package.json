@@ -34,5 +34,8 @@
     "before": [
       "ember-auto-import"
     ]
+  },
+  "ember": {
+    "edition": "octane"
   }
 }
