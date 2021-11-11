@@ -1,1 +1,1 @@
-export const works = () => true;
+export const works = (): boolean => true;

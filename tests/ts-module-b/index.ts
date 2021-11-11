@@ -1,2 +1,2 @@
 export * from './some';
-export const works = () => true;
+export const works = (): boolean => true;
